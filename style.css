@@ -1,3 +1,9 @@
 body{
   background-color: aliceblue;
 }
+
+h2{
+  color: rgb(85, 44, 44);
+  font-size: 20px;
+  background-color: coral;
+}
